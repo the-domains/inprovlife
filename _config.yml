@@ -1,0 +1,28 @@
+name: InProvLife
+favicon: null
+layout_spectrum: 0.3740692432038486
+typography_spectrum: 0.4848651436623186
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.01103598577901721
+  lightness: 0.7248482066206634
+  saturation: 0.9725415913853794
+  rhythmicContrast: 0.31915942835621536
+purpose: []
